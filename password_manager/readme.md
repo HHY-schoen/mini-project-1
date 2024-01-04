@@ -1,2 +1,2 @@
 ### password_manager
-using simple method to encrypt passwords.
+- using simple method to encrypt passwords.
